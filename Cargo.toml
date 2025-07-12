@@ -1,0 +1,12 @@
+[package]
+name = "text-buffer"
+version = "0.1.0"
+edition = "2021"
+authors = ["Junichi Sugiura <me@junichi.dev>"]
+description = "A high-performance text buffer implementation using piece tree data structure"
+license = "MIT"
+repository = "https://github.com/JunichiSugiura/text-buffer"
+
+[dependencies]
+
+[dev-dependencies] 
